@@ -26,7 +26,6 @@ Module 4
 ## Demo Video
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/f1uDxAk.png)](https://www.youtube.com/watch?v=GxSMJD4t7dk)
 
-
 ## Future enhancement
 Future work holds how engine works and damaged parts replacement with image recognition.
 
